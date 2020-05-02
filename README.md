@@ -18,12 +18,12 @@ Changes from the last time (repository DrugReview_NN).
 	6. Using these variables in models: Usefulcount, year, month & weekday 
 	7. Handling various errors in spelling 
 		a. Repeated alphabets 
-		b. Spelling errors 
-		c. Space error
-		d. No Space between number and text
+		b. Spelling errors 							No
+		c. Space error								No
+		d. No Space between number and text					No
 	8. Added section for understanding
 		a. Vocab size 
 		b. Vocab freq  and 
 		c. Distribution of reviews length
-	9. Working in colab to incorporate glove embedding
-	10. Resampling for equal rating distribution
+	9. Working in colab to incorporate glove embedding				Not yet
+	10. Resampling for equal rating distribution					Not yet
