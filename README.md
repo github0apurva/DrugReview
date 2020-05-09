@@ -3,6 +3,8 @@ Sentiment classification for drug review data from UCI archive
 
 
 DrugReview.ipynb - Contains only the EDA part
+
+
 DrugReview_co.ipynb - Contains the data pre processing till now.
 
 
@@ -27,3 +29,16 @@ Changes from the last time (repository DrugReview_NN).
 		c. Distribution of reviews length
 	9. Working in colab to incorporate glove embedding				Not yet
 	10. Resampling for equal rating distribution					Not yet
+	
+	TYpes of model:
+	1. dependent as regressor,  simple network with only text       input and no embedding		Done
+	2. dependent as regressor,  simple network with only text       input and    embedding
+	3. dependent as regressor, complex network with only text       input and    embedding
+	4. dependent as regressor, complex network with      text & aux input and    embedding	
+	
+	
+	
+	
+	
+	
+	
