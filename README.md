@@ -5,7 +5,11 @@ Sentiment classification for drug review data from UCI archive
 DrugReview.ipynb - Contains only the EDA part
 
 
-DrugReview_co.ipynb - Contains the data pre processing till now.
+DrugReview_co.ipynb - Contains the data pre processing..
+
+
+DrugReview_co_next.ipynb - Contains the model deinition, compile & fit.
+
 
 
 Changes from the last time (repository DrugReview_NN).
