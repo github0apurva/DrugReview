@@ -28,7 +28,9 @@ Changes from the last time (repository DrugReview_NN).
 		b. Vocab freq  and 
 		c. Distribution of reviews length
 	9. Working in colab to incorporate glove embedding				Not yet
-	10. Resampling for equal rating distribution					Not yet
+	10. Resampling for equal rating distribution					Done
+	11. created a seperate class to compile and ft the deeplearning model
+	
 	
 	TYpes of model:
 	1. dependent as regressor,  simple network with only text       input and no embedding		Done
